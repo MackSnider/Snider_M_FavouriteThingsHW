@@ -1,0 +1,21 @@
+{
+    "Favourite Things": [
+        {
+            "name": "Hockey",
+            "description": "Ever since I was a small child, I have always loved hockey. I originally fell in love with the game when my friend asked me to play on a team with him. I was about 10 at the time but I knew a lot about the sport already. I remember the first time I stepped on to the ice. I immediately slipped and swiftly landed on my butt. I was pretty embarrassed at the time. Reflecting on those first hockey moments, they taught me to never give up on something that you enjoy, regardless how terrible you might be in the beginning stages.",
+            "Image URL": "images/sidthekid.jpg"
+        },
+
+        {
+            "name": "Video Editing",
+            "description": "For Christmas 2016, Santa brought me my very first desktop computer. I was extremely excited! The first program I installed was After Effects CS6. The moment I launched the program, a new hobby was formed. I started getting serious about editing immediately and soon realized that my cherished pastime could turn into a career. Ever since, I have been developing my video editing skills and further expanding my knowledge of the Adobe Cloud.",
+            "Image URL": "images/afterEffects.jpg"
+        },
+
+        {
+            "name": "Video Games",
+            "description": "A big part of my life growing up was video games. Back in 6th grade, my friends and I would run home every day after school to play Halo Reach. To me, video games remind me of simpler times. While I may not have a lot of time to play them now, they will always be a positive memory that I can look back on.",
+            "Image URL": "images/videoGames.jpg"
+        }
+    ]
+}

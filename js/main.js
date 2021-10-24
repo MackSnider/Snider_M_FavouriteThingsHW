@@ -13,7 +13,7 @@ let things = {
 }
 
 let buttons = document.querySelectorAll("button");
-    //things = {};
+
 
 function showData() {
     let key = this.dataset.key;
@@ -23,17 +23,6 @@ function showData() {
     headline.textContent = things[key].name;
 }
 
-// function getData() { 
-//     fetch(url)
-//     .then(res => res.json())
-//     .then(data => {
-//         things = data;
-    
 
-
-//     })
-// }
-
-//getData();
 
 buttons.forEach(button => button.addEventListener("click", showData));
