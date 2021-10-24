@@ -1,14 +1,14 @@
 let things = {
-    thing1 : {
-        name: "thing 1"
+    Thing1 : {
+        name: "thing 1",
     },
 
-    thing2 : {
-        name: "thing 2"
+    Thing2 : {
+        name: "thing 2",
     },
 
-    thing3 : {
-        name: "thing 3"
+    Thing3 : {
+        name: "thing 3",
     }
 }
 
